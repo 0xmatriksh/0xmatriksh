@@ -1,4 +1,4 @@
-<img src = "https://octodex.github.com/images/topguntocat.png" width ="125px" height="120px"> 
+<img src = "https://octodex.github.com/images/topguntocat.png" width ="150px" height="150px"> 
 
 # I'm Developer.
 

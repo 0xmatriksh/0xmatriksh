@@ -6,7 +6,7 @@ I am a student and developer and have a keen interest in learning technologies a
 
 Currently, I am learning data science and ML algorithms.
 
-I also write blogs on Python and DS, [Here](kishmatbhattarai.info.np)
+I also write blogs on Python and DS, [Here](https://kishmatbhattarai.info.np)
 
  <p>
   <a href="https://www.linkedin.com/in/kishmat-bhattarai-33915a235/">

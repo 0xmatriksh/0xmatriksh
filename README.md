@@ -1,10 +1,10 @@
-### Hi there 👋
+<img src = "[https://octodex.github.com/images/spidertocat.png](https://octodex.github.com/images/topguntocat.png)" width ="80px" height="100px"> 
 
 # I'm Developer.
 
-I am a student and devloper and have a keen interest in learning technologies and software development. I am actively working upon web development, data science using python as primary language. My interests are in python, javascript and other web tools, linux, and interesting programming stuffs.
+I am a student and developer and have a keen interest in learning technologies and software development. I am actively working upon web development, data science using python as primary language.
 
-I am currently data science and ML algorithms.
+Currently, I am learning data science and ML algorithms.
 
 I also write blogs on Python and DS, [Here](kishmatbhattarai.info.np)
 

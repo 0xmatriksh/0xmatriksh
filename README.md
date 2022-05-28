@@ -2,7 +2,7 @@
 
 # I'm Developer.
 
-I am a student and developer and have a keen interest in learning technologies and software development. I am actively working upon web development, data science using python as primary language.
+Have a keen interest in learning technologies and software development. I actively work on web development, data science using python as primary language.
 
 Currently, I am learning data science and ML algorithms.
 

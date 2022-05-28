@@ -4,7 +4,7 @@
 
 I am a student and devloper and have a keen interest in learning technologies and software development. I am actively working upon web development, data science using python as primary language. My interests are in python, javascript and other web tools, linux, and interesting programming stuffs.
 
-I am currently on journey to learn data science.
+I am currently data science and ML algorithms.
 
 I also write blogs on Python and DS, [Here](kishmatbhattarai.info.np)
 

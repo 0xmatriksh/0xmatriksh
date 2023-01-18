@@ -1,7 +1,7 @@
 <img src = "https://octodex.github.com/images/topguntocat.png" width ="150px" height="150px"> 
 
 # I'm a Developer.
-
+<em>
 <span>🟢 Works on Web development and Software development. <br/><br/>🟢 Mostly writes code in Python but not the only. <br></br>🟢 💬 Ask me about anything, I am happy to help;</span>
  </em>
 

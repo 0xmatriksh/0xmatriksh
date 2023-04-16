@@ -15,7 +15,7 @@ Currently, learning NLP.
 </p>
 
 I also write some blogs, <b>Check out here</b>  
-<a href="https://medium.com/@kishmat17">
+<a href="https://medium.com/@0xmatriksh">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
 </a> 
 <a href="https://kishmatbhattarai.info.np/">

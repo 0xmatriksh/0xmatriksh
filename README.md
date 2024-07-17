@@ -18,9 +18,8 @@ I also write some blogs, <b>Check out here</b>
 <a href="https://medium.com/@0xmatriksh">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
 </a> 
-<a href="https://kishmatbhattarai.info.np/">
-    <img src="https://img.shields.io/badge/KishmatBlog-7289DA?style=for-the-badge">
+<a href="https://www.kishmat.com.np">
+    <img src="https://img.shields.io/badge/KishmatPortfolio-7289DA?style=for-the-badge">
 </a> 
-
 
 
